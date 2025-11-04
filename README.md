@@ -8,7 +8,7 @@ Topic: Fitness
 Two methods:
 Times series: Fat loss/Muscle mass gain prediction
 Given data features input to predict 
-Collaborative filtering: Diet recommendation based on fitness goals
+Collaborative filtering: Workout exercises recommendation based on user's need
 
 
 
